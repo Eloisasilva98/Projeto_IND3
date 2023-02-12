@@ -1,0 +1,97 @@
+{
+  "fruta": [
+  {
+      "id": 1,
+      "nome": "Pinha",
+      "nome cientifico": "Annona crassiflora",
+      "familia": "Annonaceae",
+      "caracteristicas morfologicas": "O fruto é quase esférico, recoberto de escamas verdes",
+      "origem": "Antilhas",
+      "propriedades": "As fibras presentes na fruta garantem o bom funcionamento do intestino. Regula os níveis do mau colesterol(LDL)"
+  },
+  {
+      "id": 2,
+      "nome": "Araticum",
+      "nome cientifico": "Annona squamosa",
+      "familia": "Annonaceae",
+      "caracteristicas morfologicas": "O fruto globoso contém inúmeras sementes em sua polpa branca, que é envolta por uma casca escamosa verde",
+      "origem": "Antilhas",
+      "propriedades": "Rica em ferro, potássio, cálcio, vitaminas C, A, B1 e B2. As sementes são utilizadas para conter diarréia"
+
+  },
+  {
+      "id": 3,
+      "nome": "Fruta do conde",
+      "nome cientifico": "Annona coriácea",
+      "familia": "Annonaceae",
+      "caracteristicas morfologicas": "Baga sincarpada, carnosa, de forma redonda, ovóide ou cordiforme, recoberta por saliências achatadas e regularmente dispostas, de cor verde e até 12cm de diâmetro, polpa branca e intensamente perfumada, sucosa e macia",
+      "origem": "Antilhas",
+      "propriedades": "Rica em cálcio, ferro, fósforo, hidratos de carbono, proteínas e sais mineirais. "
+
+  },
+  {
+      "id": 4,
+      "nome": "Atemoia",
+      "nome cientifico": "Annona atemoya",
+      "familia": "Annonaceae",
+      "caracteristicas morfologicas": "A casca verde tem uma aparência bruta, mas, a parte interna tem 70% de água. A ",
+      "origem": "Antilhas",
+      "propriedades": "Rica em ferro, potássio, cálcio, vitaminas C, A, B1 e B2. As sementes são utilizadas para conter diarréia"
+
+  },
+  {
+      "id": 5,
+      "nome": "Graviola",
+      "nome cientifico": "Annona reticulata",
+      "familia": "Annonaceae",
+      "caracteristicas morfologicas": "A casca é lisa, porém, com alguns espinhos aparentes.",
+      "origem": "América tropical",
+      "propriedades": "Rica em vitamina C. Previne envelhecimento precoce e possui ação anti-inflamatória"
+  }
+],
+  "legume": [
+      {
+          "id": 1,
+          "nome": "Brócolis",
+          "nome cientifico": "Brassica oleracea var. italica",
+          "familia": "Brassicaceae",
+          "origem": "Bacia do Mediterrâneo",
+          "propriedades": "É uma boa fonte de fibras e proteínas, além de ter ferro, potássio, cálcio e magnésio. E também possui vitaminas A, C, E e K"
+      },
+      {
+          "id": 2,
+          "Nome": "Cenoura",
+          "nome cientifico": "Daucus carota",
+          "familia": "Apiaceae",
+          "origem": "Afeganistão",
+          "propriedades": "vitamina A (betacaroteno e alfa caroteno), vitamina C, vitamina K, e muitas vitaminas do complexo B."
+  
+      },
+      {
+          "id": 3,
+          "nome": "Alface",
+          "nome cientifico": "Lactuca sativa",
+          "Familia": "Asteraceae",
+          "origem": "Região asiática",
+          "propriedades": "A alface é rica em fibras e antioxidantes, ajudando a melhorar a saúde gastrointestinal e também regulando os níveis de açúcar no sangue. "
+  
+      },
+      {
+          "id": 4,
+          "nome": "Repolho",
+          "nome cientifico": "Brassica oleracea var. capitata",
+          "familia": "Brassicaceae",
+          "origem": "Região mediterrânea",
+          "propriedades": "Além da vitamina A e do ferro, o repolho roxo oferece boas doses de vitaminas C, E e K e as do complexo B, além de cálcio, magnésio, manganês e potássio e ainda ácido fólico, riboflavina e tiamina (poderosos antioxidantes) e alto teor de fibras. "
+  
+      },
+      {
+          "id": 5,
+          "nome": "Beterraba",
+          "nome cientifico": "Beta vulgaris esculenta",
+          "familia": "Chenopodiaceae,",
+          "origem": "Europa",
+          "propriedades": "É rico em vitamina C, cálcio, vitamina A, ácido fólico, potássio e fibras."
+      }
+  ]
+}
