@@ -25,6 +25,9 @@
 <p>json-server --watch db.json<p>
 <p>Lembrando que por padrão a API vai funcionar no enderço: http://localhost:3000<p>
 
-
+# Tecnologias Utilizadas
+<p>JavaScript</p>
+<p>React.js</p>
+<p>Node.js</p>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
