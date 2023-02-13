@@ -2,6 +2,7 @@
 
 <p>Projeto individual: Estão servidos!?</p>
 <p>Tema escolhido: Hortifruti</p>
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
 # Descrição do projeto
 <p>Desenvolver um servidor de teste que será usado nas aulas. Este servidor terá que ser criado usando a biblioteca  Json-server juntamente com o node.js.</p>
@@ -30,4 +31,4 @@
 <p>* React.js</p>
 <p>* Node.js</p>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
+
