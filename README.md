@@ -26,7 +26,7 @@
 <p>Lembrando que por padrão a API vai funcionar no enderço: http://localhost:3000<p>
 
 # Tecnologias Utilizadas
-<p>* JavaScript</p>
+<p>* vscode</p>
 <p>* React.js</p>
 <p>* Node.js</p>
 
